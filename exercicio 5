@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Unidade 1 - Exercício 5</title>
+    <script>
+        const numero1 = Number (prompt("Digite o primeiro número:"));
+        const numero2 = Number (prompt("Digite o segundo número:"));
+
+        if (numero1 === numero2) {
+            alert("Os números são iguais!");
+        } else {
+            const maiorNumero = numero1 > numero2 ? numero1 : numero2;
+            alert(`O maior número é: ${maiorNumero}`);
+        }
+    </script>
+</head>
+<body>
+</body>
+</html>
