@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Unidade 1 - Exercício 9</title>
+    <script>
+
+
+for (let i = 1; i <= 20; i += 2) {
+    console.log (i);
+}
+
+ </script>
+</head>
+<body>
+</body>
+</html>
