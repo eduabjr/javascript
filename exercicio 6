@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Unidade 1 - Exercício 6</title>
+    <script>
+
+const numero1 = parseInt(prompt("Digite o primeiro número inteiro:"));
+const numero2 = parseInt(prompt("Digite o segundo número inteiro:"));
+const numero3 = parseInt(prompt("Digite o terceiro número inteiro:"));
+
+const maiorNumero = Math.max(numero1, numero2, numero3);
+
+const menorNumero = Math.min(numero1, numero2, numero3);
+
+alert(`O maior número é: ${maiorNumero}`);
+alert(`O menor número é: ${menorNumero}`);
+
+    </script>
+</head>
+<body>
+</body>
+</html>
