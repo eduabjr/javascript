@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Unidade 1 - Exerício 4</title>
+    <script>
+
+        let A = Number (prompt("Digite: "));
+        let B = Number (prompt("Digite: "));
+        let C = Number (prompt("Digite: "));
+        let media = (A+B+C)/3;
+
+      
+      alert("media é  = " + media);
+
+    </script>
+  </head>
+</html>
