@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Unidade 1 - Exercício 8</title>
+    <script>
+
+const idade = Number(prompt("Qual é a sua idade?"));
+
+if (idade >= 18 && idade <= 67) {
+    alert("Você pode doar sangue!");
+} else {
+    alert("não está dentro da faixa etária para doação de sangue.");
+}
+
+
+    </script>
+</head>
+<body>
+</body>
+</html>
