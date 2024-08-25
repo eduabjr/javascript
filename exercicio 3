@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Unidade 1 - Exerício 3</title>
+    <script>
+
+        let salario = Number (prompt("Digite o salario: "));
+        let aumento = salario * 0.10;
+        let salario1 = salario + aumento;
+      alert("aumento é de = " + aumento);
+      alert("salario com aumento é  = " + salario1);
+
+    </script>
+  </head>
+</html>
